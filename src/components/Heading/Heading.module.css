@@ -1,0 +1,14 @@
+.header{
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    width: 160px;
+}
+
+.img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 25px;
+
+}
